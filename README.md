@@ -1,5 +1,11 @@
 # Supply Chain Analytics — FMCG Domain (AtliQ Mart)
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Domain](https://img.shields.io/badge/Domain-Supply%20Chain-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
 > *Diagnosing delivery failures before expansion — tracking On-Time, In-Full, and OTIF performance to restore customer trust and fix service gaps.*
 
 ---
