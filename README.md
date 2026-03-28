@@ -117,5 +117,3 @@ The goal of this project is to build a **metrics-driven supply chain dashboard**
 ## Connect
 
 If you found this project useful or have suggestions, feel free to open an **Issue** or submit a **Pull Request**.
-
-> *Built with Power BI | SQL | DAX | Supply Chain Analytics*
